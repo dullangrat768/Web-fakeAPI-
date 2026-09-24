@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./style.css"
 
-function coleccion () {
+function Coleccion () {
     return (
         <>
             <h1>coleccion</h1>
@@ -9,4 +9,4 @@ function coleccion () {
     )
 }
 
-export default coleccion
+export default Coleccion

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./style.css"
 
-function fakeapi() {
+function Fakeapi() {
     return (
         <>
             <h1>fakeapi</h1>
@@ -9,4 +9,4 @@ function fakeapi() {
     )
 }
 
-export default fakeapi
+export default Fakeapi

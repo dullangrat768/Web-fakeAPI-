@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./style.css"
 
-function usuario() {
+function Usuario() {
     return (
         <>
             <h1>usuario</h1>
@@ -9,4 +9,4 @@ function usuario() {
     )
 }
 
-export default usuario
+export default Usuario

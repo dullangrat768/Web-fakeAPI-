@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./style.css"
 
-function favoritos () {
+function Favoritos () {
     return (
         <>
             <h1>favoritos</h1>
@@ -9,4 +9,4 @@ function favoritos () {
     )
 }
 
-export default favoritos
+export default Favoritos

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./style.css"
 
-function info() {
+function Info() {
     return (
         <>
             <h1>info</h1>
@@ -9,4 +9,4 @@ function info() {
     )
 }
 
-export default info
+export default Info
